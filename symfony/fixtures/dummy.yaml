@@ -1,0 +1,5 @@
+App\Entity\Product:
+  brand{1..30}:
+    name: <productName()>
+    price: <productPrice()>
+    reference: <productReference()>
